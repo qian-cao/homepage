@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Home"
+title: "Welcome to my homepage!"
 permalink: /
 author_profile: true
 redirect_from: 
