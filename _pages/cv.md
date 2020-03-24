@@ -1,9 +1,6 @@
 ---
 layout: archive
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 ## Education
 * Ph.D   Geography, University of California, Los Angeles, 2020
