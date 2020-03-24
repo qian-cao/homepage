@@ -5,7 +5,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 ## Education
 * Ph.D   Geography, University of California, Los Angeles, 2020
 * M.S.   Water Resources and Hydropower Engineering, Wuhan University, 2013
