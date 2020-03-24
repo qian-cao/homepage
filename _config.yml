@@ -72,7 +72,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Welcome!"
+#   name             : "Welcome!"
   avatar           : "profile.png"
   bio              : "Scholarly research websites links:"
 #   location         : "Location"
