@@ -23,13 +23,13 @@ Professional experience
 
 Awards & Honors
 ======
-* 2019 UCLA Department of Geography Graduate Student Publication Award 
-* 2018 UCLA Department of Geography Conference Travel Stipend
-* 2016 UCLA Department of Geography Graduate Student Publication Award 
-* 2013 Outstanding Master’s Student in Wuhan University
-* 2011 Second Prize of China National Post-Graduate Mathematic Contest in Modeling 
-* 2011 Outstanding Graduates in Wuhan University
-* 2010 China National Undergraduate Scholarship
+* 2019  UCLA Department of Geography Graduate Student Publication Award 
+* 2018  UCLA Department of Geography Conference Travel Stipend
+* 2016  UCLA Department of Geography Graduate Student Publication Award 
+* 2013  Outstanding Master’s Student in Wuhan University
+* 2011  Second Prize of China National Post-Graduate Mathematic Contest in Modeling 
+* 2011  Outstanding Graduates in Wuhan University
+* 2010  China National Undergraduate Scholarship
 
 Skills
 ======
@@ -37,8 +37,9 @@ Skills
 * Programming: Python, Bash, Matlab, C, Fortran
 * Hydrologic models: DHSVM, VIC, Noah-MP
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+{%Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+%}
