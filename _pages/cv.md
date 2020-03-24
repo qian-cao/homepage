@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 ## Education
 * Ph.D   Geography, University of California, Los Angeles, 2020
 * M.S.   Water Resources and Hydropower Engineering, Wuhan University, 2013
