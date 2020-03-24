@@ -74,13 +74,14 @@ analytics:
 author:
   name             : "Welcome to my homepage!"
   avatar           : "profile.png"
-  bio              : "Scholarly research websites links"
+  bio              : "Scholarly research websites links:"
 #   location         : "Location"
 #   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aTFYE98AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Qian_Cao15"
+  publons          : "https://publons.com/researcher/3168151/qian-cao/"
   uri              :
   bitbucket        :
   codepen          :
