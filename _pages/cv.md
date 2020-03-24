@@ -36,10 +36,3 @@ Skills
 * OS: Linux/Unix, Windows
 * Programming: Python, Bash, Matlab, C, Fortran
 * Hydrologic models: DHSVM, VIC, Noah-MP
-
-{%Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-%}
