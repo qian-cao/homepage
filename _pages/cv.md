@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D   Geography, University of California, Los Angeles, 2020
+* M.S.   Water Resources and Hydropower Engineering, Wuhan University, 2013
+* B.E.   Agricultural Water Resources Engineering, Wuhan University, 2011
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Scholar: University of California, Los Angeles, 04/2020-current
+* Graduate Research Assistant: University of California, Los Angeles, 10/2014-03/2020
+* Graduate Research Assistant: University of Washington, 09/2013-09/2014
   
 Skills
 ======
